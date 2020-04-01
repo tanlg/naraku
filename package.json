@@ -1,0 +1,11 @@
+{
+  "name": "naraku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tanlg/naraku.git",
+  "author": "LongguangTan <tanlongguang@mokahr.com>",
+  "license": "MIT",
+  "bin": {
+    "naraku-core": "./bin/naraku-core.js"
+  }
+}
